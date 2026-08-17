@@ -20,7 +20,7 @@ Input directory layout
 
 Run
 ---
-python scripts/plot_sv_concordance.py --input-dir /path/to/minda_out --output-dir output/full_data
+python plot_sv_overlaps_ONT-PacBio.py --input-dir /data/minda_out --output-dir output
 """
 
 from __future__ import annotations
