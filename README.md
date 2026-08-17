@@ -1,4 +1,4 @@
-# Long-read-WGS: Benchmarking of PacBio HiFi and Oxford Nanopore Sequencing
+# Benchmarking of PacBio HiFi and Oxford Nanopore Sequencing
 
 This repository provides the analysis code for the study:
 > **Benchmarking PacBio HiFi and Oxford Nanopore Long-Read Sequencing for Variant Detection, Phasing, Assembly, and Methylation in Family Trios**
